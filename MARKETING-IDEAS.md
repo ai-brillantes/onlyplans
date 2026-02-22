@@ -58,6 +58,35 @@ The insight is universal — most friendships don't fade because of drama, they 
 
 ---
 
+## Seedance 2.0 — AI-Generated Sitcom & Viral Videos
+
+### Concept
+Use **Seedance 2.0** (via Kie.ai) to generate short-form AI video content for Dinder and other OnlyPlans features. Think sitcom-style skits and viral format clips — fully AI-generated, no filming needed.
+
+### Dinder Content Ideas
+- **"The Indecisive Couple"** — AI sitcom clip of two people going back and forth on where to eat, increasingly absurd suggestions, then Dinder solves it in one swipe
+- **"Dinder Date Night"** — Sitcom cold open: couple on couch, both hungry, both stubborn. Dinder montage. Resolution. Laugh track optional.
+- **"Speed Dinder"** — Rapid-fire swipe montage set to upbeat music, each rejected restaurant gets a dramatic reaction shot
+- **"The Group Chat Meltdown"** — 4-way split screen of friends all vetoing each other's picks. Dinder consensus mode saves the day.
+
+### Other OnlyPlans Viral Formats
+- **"POV: Your friend actually follows through"** — AI-generated reaction/celebration clip when someone RSVPs yes
+- **"The Flake"** — Sitcom bit about the friend who always cancels, OnlyPlans accountability features as the punchline
+
+### Why Seedance 2.0
+- High enough quality for social media posts (TikTok, Reels, Shorts)
+- Can iterate fast — generate 10 variations, pick the best
+- No actors, no scheduling, no editing software needed
+- Cost-effective via Kie.ai credits
+
+### Next Steps
+- [ ] Wait for Seedance 2.0 availability on Kie.ai
+- [ ] Test with Dinder "indecisive couple" concept first
+- [ ] Evaluate quality — is it good enough for brand content or just meme-tier?
+- [ ] If quality is there, build a content calendar of weekly AI-generated clips
+
+---
+
 ## Future Concepts (Parking Lot)
 
 - **"The Plan That Almost Happened"** — Montage of group chat screenshots where plans die ("who's down?" → silence → "nvm"). OnlyPlans swoops in.
